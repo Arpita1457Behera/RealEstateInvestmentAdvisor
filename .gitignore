@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# VS Code settings
+.vscode/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Log files
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# OneDrive conflict copies
+*-LAPTOP-*.py
+*-LAPTOP-*.md
+*-LAPTOP-*.txt
+*-LAPTOP-*.gitignore
